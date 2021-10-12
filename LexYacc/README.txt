@@ -1,0 +1,1 @@
+To run the program you must have a code file which has the extension .txt. After you have a code.txt file go in terminal and run the command "make all". This will make an executable which you can then run by typing "./string_lang code.txt" in the command line.
